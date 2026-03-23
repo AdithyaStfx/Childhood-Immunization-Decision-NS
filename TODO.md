@@ -1,0 +1,3 @@
+* Try getting immunization rates by other G20 countries for comparison to reveal performance relative to others. E.g. https://data.worldbank.org/indicator/SH.IMM.IDPT
+* Merge with tableau prep
+* You won't be able to get current numbers of folks without a family doctor - that data has been removed.  You can get physicians per 1000 globally https://data.worldbank.org/indicator/SH.MED.PHYS.ZS.  Stats canada may have provincial data
