@@ -1,0 +1,3 @@
+Vaccine,% Coverage_mean,% Coverage_min,% Coverage_max,# Eligible_sum,# Immunized_sum,Overall_Coverage
+MEN-C-ACYW-135,0.9125,0.8712,0.945,64430,58781,0.9123234518081639
+TDAP,0.8922,0.7904,0.936,92229,82266,0.8919754090362033
