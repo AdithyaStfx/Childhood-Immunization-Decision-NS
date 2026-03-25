@@ -252,12 +252,6 @@ Childhood-Immunization-Decision-NS/
 | Highest Performing Zone | Northern (88.3%) | Model for best practices |
 | COVID-19 Impact | -5.5% (2019-2020) | Recovery still underway |
 | Best Performing Vaccine | MEN-C-ACYW-135 (91.2%) | Single-dose advantage |
-
 ---
 
-## References
 
-- Nova Scotia Open Data Portal: [data.novascotia.ca](https://data.novascotia.ca/)
-- Nova Scotia Health Authority Zone Boundaries
-- Canadian Immunization Guide (Public Health Agency of Canada)
-- World Health Organization Herd Immunity Guidelines
